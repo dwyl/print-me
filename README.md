@@ -20,7 +20,7 @@ We needed these pretty quickly and turnarounds for most sticker suppliers seem t
 ###Design
 From the beginning we knew we wanted something very simple that centred on our icon (the heart-with-the-tick). We came up with [a few different yet basic designs](https://github.com/dwyl/start-here/issues/17) and none of them were _amazing_, but these are our **alpha stickers**.    
 
-Whilst @iteles thought the final design was a bit too _bland_ with just one colour and all the uniformity, we **erred on the side of simplicity** for this initial small run.
+Whilst [@iteles](http://www.github.com/iteles) thought the final design was a bit too _bland_ with just one colour and all the uniformity, we **erred on the side of simplicity** for this initial small run.
 
 ![dwyl-stickers-on-the-sheet](https://cloud.githubusercontent.com/assets/4185328/8397528/9a12179e-1dc6-11e5-82a2-94a24edf24a8.jpg)
 
@@ -37,6 +37,25 @@ But we ended up with a decent end result:
 + Further research needed into **most easily recycled/eco-friendly options**
 + The **colour wears off** these with some ease due to the lack of lamination - ties in with investigation into options above
 + Potentially get them **designed by someone with honed design skills** to add more interest whilst retaining the simplicity
-+ **Hex stickers** of course! (thanks for [reminding us](https://github.com/dwyl/start-here/issues/17#issuecomment-116333887) @iancrowther)
++ **Hex stickers** of course! (thanks for [reminding us](https://github.com/dwyl/start-here/issues/17#issuecomment-116333887) [@iancrowther](http://www.github.com/iancrowther))
 + www.stickerapp.co.uk and www.diginate.com have been recommended to us.
 
+
+##T-shirts
+###Why?
+We got a couple of t-shirts from our friends [@LiftSecurity](https://twitter.com/liftsecurity) and [@bithoundio](https://twitter.com/bithoundio) that were oh-so-soft and we [love showing them off](https://twitter.com/iteles/status/611945513424957440). As our wardrobes have to contain more than a 3 t-shirts, we thought it would be great to treat our [team](https://github.com/orgs/dwyl/teams/doers) to some dwyl tees too.
+
+###Where?
+We chose [Bella & Canvas](http://www.bellacanvas.com/about-us) t-shirts because whilst they're incredibly soft and come in some great colours, most importantly their [ethics are in the right place](http://www.bellacanvas.com/responsible-ts), both in terms of humans and the environment.    
+
+Suppliers and printers of these tees were quite difficult to come by in the UK, but we went with [Fire Label](http://www.firelabel.co.uk/) for our small **alpha run** of 55 t-shirts. They have such a great attitude, we've been very impressed with how sunny and helpful they are.
+
+###Design
+//TODO link to all issues
+https://github.com/dwyl/print-me/issues/1 - logo or app icon
+
+
+###Changes
++ Investigate fairtrade and most eco friendly material in more detail (cotton is hugely water intensive for example, [bamboo is looking pretty appealing](http://bambooclothing.co.uk/good_for_the_environment.html)
++ Learn more about eco-friendly printing processes, [though this seems like a close call](https://rapanuiclothing.com/eco-friendly-screen-printing/)
++ //TODO design changes
