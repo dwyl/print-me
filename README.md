@@ -51,11 +51,40 @@ We chose [Bella & Canvas](http://www.bellacanvas.com/about-us) t-shirts because 
 Suppliers and printers of these tees were quite difficult to come by in the UK, but we went with [Fire Label](http://www.firelabel.co.uk/) for our small **alpha run** of 55 t-shirts. They have such a great attitude, we've been very impressed with how sunny and helpful they are.
 
 ###Design
-//TODO link to all issues
-https://github.com/dwyl/print-me/issues/1 - logo or app icon
+We had quite a lot of decisions to make on the design side! We again decided to **keep things as simple as possible** for our small initial run and we're hoping to get some great t-shirts designed further down the line for anyone who wants one.
 
+####Front
+#####Graphics
+There was great debate on whether we should focus on our [logo or icon](https://github.com/dwyl/print-me/issues/1) as the main design.    
+
+Whilst we love that we ended up with a heart-and-tick icon, the tick feels like it's the wrong way round in the full logo version:
+
+![dwyl-logo-on-grey-tshirt](https://cloud.githubusercontent.com/assets/194400/8124340/b133b0e2-10d1-11e5-8cec-02e05c606bdd.png)
+
+It's an ongoing debate but seeing as we may be moving away from the logo, we went with the icon for now.
+
+Original version have **dwyl** on the front and not **dwyl.io**. This audience for this initial run of t-shirts is developers, so the 'io' makes sense here, but in future runs we need to decide whether it's necessary.
+
+Lastly, there was some debate over whether the 'do what you love' lettering should extend beyond the bottom of the 'dwyl' **y**. We went with making them a little bigger to match the full 'dwyl.io' width. Let's see how they turn out!
+
+
+#####Print sizing
+There was much sitting on the floor with a measuring tape and various mens and ladies t-shirts we'd received at tech conferences/events.
+
+We wanted a print size that would work for both genders for now, [there's even a whole issue on it](![dwyl-tee-alpha-final-design](https://cloud.githubusercontent.com/assets/4185328/8434968/9c38dbc6-1f46-11e5-99a4-391017e6414a.jpg). We went for what felt right.
+
+![dwyl-tee-alpha-final-design](https://cloud.githubusercontent.com/assets/4185328/8434968/9c38dbc6-1f46-11e5-99a4-391017e6414a.jpg)
+
+####T-shirt colours
+The downside of opting for the heart icon rather than the original dwyl logo is that we ended up with a [plain white print that is less 'interesting' than a multi-coloured variation](https://github.com/dwyl/print-me/issues/1).    
+Having it on very dark colours like charcoal with a stark contrast made it look very **bland** and on very light colours like the green **washes it out**.    
+
+We chose to go with **red** and **blue** as our main colours and get a couple printed in **navy** and **green** as a trial.
+![dwyl-alpha-tees-proof-colours](https://cloud.githubusercontent.com/assets/4185328/8435680/9c5ad006-1f4a-11e5-87d6-10b22e3e4d55.png)
 
 ###Changes
 + Investigate fairtrade and most eco friendly material in more detail (cotton is hugely water intensive for example, [bamboo is looking pretty appealing](http://bambooclothing.co.uk/good_for_the_environment.html)
 + Learn more about eco-friendly printing processes, [though this seems like a close call](https://rapanuiclothing.com/eco-friendly-screen-printing/)
-+ //TODO design changes
++ Design decisions
+    + Is having the '.io' on the front necessary?
+    + How can we add more colour to the t-shirt and interest to the design? 
