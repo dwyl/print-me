@@ -75,11 +75,26 @@ We wanted a print size that would work for both genders for now, [there's even a
 
 ![dwyl-tee-alpha-final-design](https://cloud.githubusercontent.com/assets/4185328/8434968/9c38dbc6-1f46-11e5-99a4-391017e6414a.jpg)
 
+####Back
+
+#####Design
+We started trying some simple ways to [add the URL to the back of the tees](https://github.com/dwyl/print-me/issues/3) with the icon to give it a little interest. We decided that although not aesthetically the prettiest thing, the back should **include the 'www'** until 'io' domains are universally recognised as URLs in the same was as '.com' domains are.
+
+[@nelsonic](http://www.github.com/) hit upon the thought-provoking idea of adding the question 'Doing what you love?' and whilst [@iteles](http://www.github.com/iteles) was concerned it might be 'too promotional', we decided to run with it for this batch and ask people for their thoughts.
+
+#####Print sizing
+Went with a [maximum width of 230mm across the back](https://github.com/dwyl/print-me/issues/5) on this one and adjusted the print accordingly.
+
+#####Positioning
+We were pretty clear [from the beginning](https://github.com/dwyl/print-me/issues/3) that we wanted the prints on the back to be mid-way down the back - no discrimination for people with long hair! ;)
+
+The printers suggested 150mm down from the neckline and on a whim, [@iteles](http://www.github.com/iteles) made the call that that would look good for men but further down would look better for women. Therefore the print on the back of ladies' tees is 200mm from the neckline.
+
 ####T-shirt colours
 The downside of opting for the heart icon rather than the original dwyl logo is that we ended up with a [plain white print that is less 'interesting' than a multi-coloured variation](https://github.com/dwyl/print-me/issues/1).    
 Having it on very dark colours like charcoal with a stark contrast made it look very **bland** and on very light colours like the green **washes it out**.    
 
-We chose to go with **red** and **blue** as our main colours and get a couple printed in **navy** and **green** as a trial.
+We chose to go with **red** and **blue** as our main colours and get a couple printed in **navy** and **green** as a trial. It helps of course that a disproportionate number of tech tees seem to be (anecdotally) grey or charcoal so staying away from those colours was a plus!
 ![dwyl-alpha-tees-proof-colours](https://cloud.githubusercontent.com/assets/4185328/8435680/9c5ad006-1f4a-11e5-87d6-10b22e3e4d55.png)
 
 ###Changes
@@ -88,3 +103,7 @@ We chose to go with **red** and **blue** as our main colours and get a couple pr
 + Design decisions
     + Is having the '.io' on the front necessary?
     + How can we add more colour to the t-shirt and interest to the design? 
+    + Sizing of prints - is it big enough? Too big?
+    + Does the positioning of the back prints work?
+    + Does the questions 'Doing what you love?' + the website at the back make the t-shirts a bit too _promotional_ or does it work? 
++ Do the darker colour t-shirts work or are the lighter/more colourful ones better?
