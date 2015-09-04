@@ -40,6 +40,10 @@ But we ended up with a decent end result:
 + **Hex stickers** of course! (thanks for [reminding us](https://github.com/dwyl/start-here/issues/17#issuecomment-116333887) [@iancrowther](http://www.github.com/iancrowther))
 + www.stickerapp.co.uk and www.diginate.com have been recommended to us.
 
+We also had some slightly larger stickers made which we added to our laptops and... :wink:
+![dwyl-car-stickers](https://cloud.githubusercontent.com/assets/4185328/9695986/53f0f260-5360-11e5-86d0-bd86b9a65051.jpg)
+
+
 
 ##T-shirts
 ###Why?
@@ -107,3 +111,5 @@ We chose to go with **red** and **blue** as our main colours and get a couple pr
     + Does the positioning of the back prints work?
     + Does the questions 'Doing what you love?' + the website at the back make the t-shirts a bit too _promotional_ or does it work? 
 + Do the darker colour t-shirts work or are the lighter/more colourful ones better?
+
+![final-dwyl-tees](https://cloud.githubusercontent.com/assets/4185328/9695982/429a6636-5360-11e5-885b-92e7fa21ff32.jpg)
