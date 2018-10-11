@@ -1,10 +1,12 @@
-# merchandise
+# Merch
 We <3 how technology and how it enables us to solve problems simply and intuitively. But this doesn't mean that the necessity or magic of physical products is lost on us.    
 
 We believe in doing what you love (or _**dwyling**_ as the cool kids say) and _want to wear our hearts on our sleeves_ - sometimes literally.    
 So we'll be making/having a few things made that will let us do just that and documenting our **decisions** and the **evolution of things** here.
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/print-me/issues) _If you have any suggestions on how to improve these in future runs or think of anything cool we *should* be printing, let us know in the issues!_
+
+NB: assets from previous runs are saved in `dwyl Marketing & Branding > dwyl Stash`
 
 ## Stickers
 
